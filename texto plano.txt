@@ -1,1 +1,2 @@
 este es el ejemplo de texto plano.
+este es el texto plano con el cambio.
